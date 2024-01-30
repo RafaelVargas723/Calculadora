@@ -1,0 +1,17 @@
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\bin\Debug\net8.0-windows\RafaForms.exe
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\bin\Debug\net8.0-windows\RafaForms.deps.json
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\bin\Debug\net8.0-windows\RafaForms.runtimeconfig.json
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\bin\Debug\net8.0-windows\RafaForms.dll
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\bin\Debug\net8.0-windows\RafaForms.pdb
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.csproj.GenerateResource.cache
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.AssemblyInfoInputs.cache
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.AssemblyInfo.cs
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.csproj.CoreCompileInputs.cache
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.dll
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\refint\RafaForms.dll
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.pdb
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.genruntimeconfig.cache
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\ref\RafaForms.dll
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.Form1.resources
+D:\des\Rafa\RafaForms\RafaForms\RafaForms\obj\Debug\net8.0-windows\RafaForms.Properties.Resources.resources
